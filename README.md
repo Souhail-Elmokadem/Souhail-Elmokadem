@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=0B045F&background=FFCF7600&multiline=true&width=435&height=120&lines=I'm+Souhail+El+Mokadem;Software+Engineer)](https://git.io/typing-svg)
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=0B045F&background=FFCF7600&multiline=true&width=435&height=120&lines=I'm+Souhail+El+Mokadem;Software+Engineer)](https://git.io/typing-svg)
+
+
+
 
 # 💫 About Me:
 💡  I like to explore new technologies and develop software solutions and quick hacks.<br>🎓  I'm currently studying computer Science and network engineering.<br>🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
