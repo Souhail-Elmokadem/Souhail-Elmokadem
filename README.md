@@ -3,8 +3,7 @@
 </p>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  
 </div>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Souhail El Mokadem<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
