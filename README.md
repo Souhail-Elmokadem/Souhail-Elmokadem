@@ -4,7 +4,7 @@
 
 <div align="left"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=0B045F&background=FFCF7600&multiline=true&width=435&height=120&lines=I'm+Souhail+El+Mokadem;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=0B045F&background=FFCF7600&multiline=true&width=435&height=120&lines=I'm+Souhail+El+Mokadem;Software+Engineer)](https://github.com/Souhail-Elmokadem)
   
 </div>
 
